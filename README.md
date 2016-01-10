@@ -1,6 +1,8 @@
 # 2016 NIST Internship
 Files and programs for my NIST ACMD DRMF Internship.
+
 ---
+
 ## Code
 All code in Python 3.4.
 
@@ -9,7 +11,9 @@ A converter that reads a file (tex) and returns it into another file, with the "
 
 ####azAZ Converter
 A similar converter that converts all uppercase to lowercase, and vice versa.
+
 ---
+
 ## Execution
 **mM.py:**
 ```
@@ -20,6 +24,8 @@ python mM.py in.tex
 ```
 python azAZ.py in.tex
 ```
+
 ---
+
 ## Contributors, mentors
 Howard Cohl, who led and oversaw this project, and Mark Curran, who introduced me to this opportunity.
