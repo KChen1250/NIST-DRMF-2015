@@ -4,10 +4,10 @@ Files and programs for my NIST ACMD DRMF 2015 Internship under Howard Cohl.
 ## Code
 In Python 3.4.
 
-### mM Converter
+#### mM Converter
 A converter that reads a file (tex) and returns it into another file, with the "M"s turned into "m", and vice versa.
 
-### azAZ Converter
+#### azAZ Converter
 A similar converter that converts all uppercase to lowercase, and vice versa.
 
 ## Execution
