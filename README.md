@@ -1,15 +1,25 @@
-## Synopsis
-
-These files are for my NIST ACMD DRMF 2015 Internship.
-
-## Motivation
-
-I applied for this internship because of my love for STEM related topics, and I thought this would also be great for my resume.
+#  NIST Internship
+Files and programs for my NIST ACMD DRMF 2015 Internship under Howard Cohl.
 
 ## Code
+In Python 3.4.
 
-So far, the only code in here are simple tasks that edit tex files.
+### mM Converter
+A converter that reads a file (tex) and returns it into another file, with the "M"s turned into "m", and vice versa.
+
+### azAZ Converter
+A similar converter that converts all uppercase to lowercase, and vice versa.
+
+## Execution
+mM.py:
+'''
+python mM.py in.tex
+'''
+
+azAZ.py:
+'''
+python azAZ.py in.tex
+'''
 
 ## Contributors, mentors
-
-Howard Cohl, who led and oversaw this project, and Mark Curran, who introduced me to this opportunity
+Howard Cohl, who led and oversaw this project, and Mark Curran, who introduced me to this opportunity.
