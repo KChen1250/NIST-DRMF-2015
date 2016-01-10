@@ -12,14 +12,14 @@ A similar converter that converts all uppercase to lowercase, and vice versa.
 
 ## Execution
 mM.py:
-'''
+```
 python mM.py in.tex
-'''
+```
 
 azAZ.py:
-'''
+```
 python azAZ.py in.tex
-'''
+```
 
 ## Contributors, mentors
 Howard Cohl, who led and oversaw this project, and Mark Curran, who introduced me to this opportunity.
