@@ -15,12 +15,12 @@ A similar converter that converts all uppercase to lowercase, and vice versa.
 ---
 
 ## Execution
-**mM.py:**
+**mM.py**
 ```
 python mM.py in.tex
 ```
 
-**azAZ.py:**
+**azAZ.py**
 ```
 python azAZ.py in.tex
 ```
