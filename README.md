@@ -1,5 +1,5 @@
-# 2016 NIST Internship
-Files and programs for my NIST ACMD DRMF Internship.
+# 2016 NIST
+Preliminary files and programs for my NIST Internship.
 
 ---
 
